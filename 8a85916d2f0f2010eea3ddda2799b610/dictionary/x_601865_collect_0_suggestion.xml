@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Suggestion" max_length="40" name="x_601865_collect_0_suggestion" sizeclass="2" type="collection">
+        <element label="Suggestion" max_length="40" name="suggestion" type="string"/>
+        <element label="Submission date" max_length="40" name="suggestion_date" type="glide_date"/>
+    </element>
+</database>

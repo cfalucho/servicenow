@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for appSuggestion Box Workspace">d5e6eaf52f432010eea3ddda2799b630</applicability>
+        <list display_value="All">e9e6eaf52f432010eea3ddda2799b63d</list>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-03-23 05:07:41</sys_created_on>
+        <sys_id>65e6eaf52f432010eea3ddda2799b672</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Collection Tracker" source="x_601865_collect_0">8a85916d2f0f2010eea3ddda2799b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">8a85916d2f0f2010eea3ddda2799b610</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_65e6eaf52f432010eea3ddda2799b672</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-03-23 05:07:41</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>
