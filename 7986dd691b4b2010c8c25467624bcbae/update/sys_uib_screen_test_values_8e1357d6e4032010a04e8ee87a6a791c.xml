@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+  "catalogItemId" : ""
+}</macroponent_config>
+        <screen display_value="Catalog Item Page Default">4e1357d6e603201055efce161a18b61c</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-03-24 21:37:46</sys_created_on>
+        <sys_id>8e1357d6e4032010a04e8ee87a6a791c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Collection Tracker" source="x_601870_collect_0">7986dd691b4b2010c8c25467624bcbae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">7986dd691b4b2010c8c25467624bcbae</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_8e1357d6e4032010a04e8ee87a6a791c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-24 21:37:46</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

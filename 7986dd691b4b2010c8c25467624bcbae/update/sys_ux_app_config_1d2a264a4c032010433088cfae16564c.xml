@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <default_route_type/>
+        <description>A Workspace to manage Suggestions</description>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>Suggestion Box Workspace Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-03-24 00:00:21</sys_created_on>
+        <sys_id>1d2a264a4c032010433088cfae16564c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Suggestion Box Workspace Config</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_601870_collect_0">7986dd691b4b2010c8c25467624bcbae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">7986dd691b4b2010c8c25467624bcbae</sys_scope>
+        <sys_update_name>sys_ux_app_config_1d2a264a4c032010433088cfae16564c</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-03-24 00:00:21</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=1d2a264a4c032010433088cfae16564c"/>
+</record_update>

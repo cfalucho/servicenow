@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="data_stream_action" label="Data Stream action" language="en" table="sys_data_source">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>data_stream_action</element>
+            <help/>
+            <hint>The Data Stream action that provides complex object stream to load data</hint>
+            <label>Data Stream action</label>
+            <language>en</language>
+            <name>sys_data_source</name>
+            <plural>Data Stream actions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-22 04:59:09</sys_created_on>
+            <sys_id>265b5da11b8b2010c8c25467624bcbb5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Data Stream action</sys_name>
+            <sys_package display_value="Collection Tracker" source="x_601870_collect_0">7986dd691b4b2010c8c25467624bcbae</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Collection Tracker">7986dd691b4b2010c8c25467624bcbae</sys_scope>
+            <sys_update_name>sys_documentation_sys_data_source_data_stream_action_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-22 04:59:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

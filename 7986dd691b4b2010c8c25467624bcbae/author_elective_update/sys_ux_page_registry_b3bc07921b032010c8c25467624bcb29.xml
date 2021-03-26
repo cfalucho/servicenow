@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>b7bc07921b032010c8c25467624bcb29</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <path>itc</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-03-24 21:10:05</sys_created_on>
+        <sys_id>b3bc07921b032010c8c25467624bcb29</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ITC</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_601870_collect_0">7986dd691b4b2010c8c25467624bcbae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">7986dd691b4b2010c8c25467624bcbae</sys_scope>
+        <sys_update_name>sys_ux_page_registry_b3bc07921b032010c8c25467624bcb29</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-24 21:10:05</sys_updated_on>
+        <title>ITC</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Collection Tracker">7986dd691b4b2010c8c25467624bcbae</application>
+        <file_path/>
+        <instance_id>0615a219dbcfa890f37acac50596197d</instance_id>
+        <instance_name>dev107835</instance_name>
+        <name>sys_ux_page_registry_b3bc07921b032010c8c25467624bcb29</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>b7bc07921b032010c8c25467624bcb29</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><path>itc</path><root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2021-03-24 21:10:05</sys_created_on><sys_id>b3bc07921b032010c8c25467624bcb29</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ITC</sys_name><sys_package display_value="Collection Tracker" source="x_601870_collect_0">7986dd691b4b2010c8c25467624bcbae</sys_package><sys_policy/><sys_scope display_value="Collection Tracker">7986dd691b4b2010c8c25467624bcbae</sys_scope><sys_update_name>sys_ux_page_registry_b3bc07921b032010c8c25467624bcb29</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2021-03-24 21:10:05</sys_updated_on><title>ITC</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-1755318108</payload_hash>
+        <record_name>ITC</record_name>
+        <reverted_from/>
+        <source>7a4822111b03201057895467624bcbb5</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2021-03-21 15:56:49</sys_created_on>
+        <sys_id>960197921b032010c8c25467624bcb9f</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1785580d1e80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>560197920e032010723a37410890569f</update_guid>
+        <update_guid_history>560197920e032010723a37410890569f:-1755318108</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-03-24 21:28:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>144aef82801c478498bff94baac9c890</sys_id>
+        <sys_metadata>b3bc07921b032010c8c25467624bcb29</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ITC</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_601870_collect_0">7986dd691b4b2010c8c25467624bcbae</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">7986dd691b4b2010c8c25467624bcbae</sys_scope>
+        <sys_scope_delete display_value="">09dbc350467949cea1497c46dc3ce2a4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_b3bc07921b032010c8c25467624bcb29</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_b3bc07921b032010c8c25467624bcb29">960197921b032010c8c25467624bcb9f</sys_update_version>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-03-24 21:28:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

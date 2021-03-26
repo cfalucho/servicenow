@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Dawn of the Web Config">351317d61b032010c8c25467624bcbef</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Attachment">421357d6cc032010dd9566714cd1cf17</macroponent>
+        <macroponent_config>{
+  "sysId" : "@context.props.sysId",
+  "table" : "@context.props.table",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "none",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Attachment Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record Page(task)">4e1357d68e03201068babe12274c050b</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Attachments">ca1357d61d032010defc14ef1b5a800b</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-03-24 21:37:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8e1357d61d03201094f30001ebd1d118</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attachment Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Collection Tracker" source="x_601870_collect_0">7986dd691b4b2010c8c25467624bcbae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">7986dd691b4b2010c8c25467624bcbae</sys_scope>
+        <sys_update_name>sys_ux_screen_8e1357d61d03201094f30001ebd1d118</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-24 21:37:47</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=8e1357d61d03201094f30001ebd1d118"/>
+</record_update>

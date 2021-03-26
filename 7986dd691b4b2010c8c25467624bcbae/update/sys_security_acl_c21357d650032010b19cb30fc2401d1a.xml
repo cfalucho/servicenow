@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>ACL for Get approver sysId data broker</description>
+        <name>7d1317d61b032010c8c25467624bcbef</name>
+        <operation display_value="execute">execute</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-03-24 21:37:46</sys_created_on>
+        <sys_id>c21357d650032010b19cb30fc2401d1a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7d1317d61b032010c8c25467624bcbef</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_601870_collect_0">7986dd691b4b2010c8c25467624bcbae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">7986dd691b4b2010c8c25467624bcbae</sys_scope>
+        <sys_update_name>sys_security_acl_c21357d650032010b19cb30fc2401d1a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-24 21:37:46</sys_updated_on>
+        <type display_value="ux_data_broker">6d9c40e9531210101cb3ddeeff7b12f6</type>
+    </sys_security_acl>
+</record_update>

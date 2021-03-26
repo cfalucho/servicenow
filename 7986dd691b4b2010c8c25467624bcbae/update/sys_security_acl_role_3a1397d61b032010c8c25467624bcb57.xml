@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-03-24 21:37:47</sys_created_on>
+        <sys_id>3a1397d61b032010c8c25467624bcb57</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>791317d61b032010c8c25467624bcbef.x_601870_collect_0.Safety Manager</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_601870_collect_0">7986dd691b4b2010c8c25467624bcbae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">7986dd691b4b2010c8c25467624bcbae</sys_scope>
+        <sys_security_acl display_value="791317d61b032010c8c25467624bcbef">861357d64b0320104d460f74d53abd1a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3a1397d61b032010c8c25467624bcb57</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-24 21:37:47</sys_updated_on>
+        <sys_user_role display_value="x_601870_collect_0.Safety Manager" name="x_601870_collect_0.Safety Manager">62725f961b032010c8c25467624bcb15</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Dawn of the Web Config">351317d61b032010c8c25467624bcbef</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Search Page">021357d678032010c8331a9ba493580f</macroponent>
+        <macroponent_config>{
+  "searchContextConfigId" : "",
+  "searchTerm" : "",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "none",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Search Page Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Search Page">4a1357d652032010ba8f39d50743e20d</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-03-24 21:37:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>861357d60c032010922d17806e19291b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search Page Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Collection Tracker" source="x_601870_collect_0">7986dd691b4b2010c8c25467624bcbae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">7986dd691b4b2010c8c25467624bcbae</sys_scope>
+        <sys_update_name>sys_ux_screen_861357d60c032010922d17806e19291b</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-24 21:37:45</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=861357d60c032010922d17806e19291b"/>
+</record_update>
